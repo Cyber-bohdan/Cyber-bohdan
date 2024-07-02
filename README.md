@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, C++, Front-End Developing.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me: bokalobogdan440@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: im 18.
 
 <!---
